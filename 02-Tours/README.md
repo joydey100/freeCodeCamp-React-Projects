@@ -4,4 +4,4 @@ This is a Tours project, Here used api for fetching data with useEffect. I pract
 
 Live Link - [Tours](https://tour-project-react.netlify.app/)
 
-![alt text](https://raw.githubusercontent.com/joydey100/freeCodeCamp-React-Projects/main/01-Birthday%20Reminder/screenshot.png)
+![alt text](https://github.com/joydey100/freeCodeCamp-React-Projects/blob/main/02-Tours/screenshot.png?raw=true)
