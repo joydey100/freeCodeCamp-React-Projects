@@ -4,4 +4,4 @@ This is a birthday reminder project. I practice it with freeCodeCamp 15 projects
 
 Live Link - [BirthDay Reminder](https://birthday-reminder-project.netlify.app/)
 
-[](https://raw.githubusercontent.com/joydey100/freeCodeCamp-React-Projects/main/1-Birthday%20Reminder/screenshot.png)
+![alt text](https://raw.githubusercontent.com/joydey100/freeCodeCamp-React-Projects/main/1-Birthday%20Reminder/screenshot.png)
