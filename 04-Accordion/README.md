@@ -1,20 +1,7 @@
-#### Idea
+## Accordion
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+This is a Accordion project. I practice it with freeCodeCamp 15 projects with react by John Smilga.
 
-![](./idea.png);
+Live Link - [Accordion](https://accordion-react-project-joy.netlify.app/)
 
-#### React Icons
-
-[react icons](https://react-icons.github.io/react-icons/)
-
-```
-npm install react-icons --save
-```
-
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+![alt text](https://github.com/joydey100/freeCodeCamp-React-Projects/blob/main/04-Accordion/screenshot.png?raw=true)
